@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Engineered - Ingeneørlæreplattform</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Engineered</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Geoteknikk</a></li>
+      <li><a href="#">Bygningskonstruksjoner</a></li>
+      <li><a href="#">Stålkonstruksjoner</a></li>
+      <li><a href="#">Mekanikk</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <!-- Innholdet på nettsiden går her -->
+  </main>
+
+  <footer>
+    <!-- Foterinnhold går her -->
+  </footer>
+</body>
+</html>
+

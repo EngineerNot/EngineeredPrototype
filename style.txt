@@ -1,0 +1,39 @@
+body {
+  background-color: #4B0082; /* Mørk lilla farge */
+  color: #FFFFFF; /* Hvit tekstfarge */
+  font-family: Arial, sans-serif;
+  background-image: url('fagverk.png'); /* Bakgrunnsbilde av fagverk */
+  background-repeat: repeat;
+  background-position: center center;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: #FFFFFF; /* Hvit tekstfarge */
+  text-decoration: none;
+  font-size: 18px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
